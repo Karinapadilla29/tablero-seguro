@@ -20,7 +20,7 @@ La aplicación permite analizar una cartera de seguros mediante:
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/Karinapadilla29/tablero-seguro
+git clone https://github.com/Karinapadilla29/tablero-seguro.git
 ```
 
 2. **Entrar a la carpeta:**
