@@ -26,7 +26,7 @@ git clone https://github.com/Karinapadilla29/tablero-seguro.git
 2. **Entrar a la carpeta:**
 
 ```bash
-cd tablero-seguros
+cd tablero-seguro
 ```
 
 3. **Instalar las dependencias:**
@@ -43,7 +43,7 @@ streamlit run app_streamlit.py
 
 ## Aplicación publicada
 
-[https://tablero-seguros-uuctyn2yq4v3kactgfcyr8.streamlit.app/](https://tablero-seguros-uuctyn2yq4v3kactgfcyr8.streamlit.app/)
+[https://tablero-seguro-brb78g4uowspdyzt6m35vu.streamlit.app/](https://tablero-seguro-brb78g4uowspdyzt6m35vu.streamlit.app/)
 
 ## Repositorio
 
